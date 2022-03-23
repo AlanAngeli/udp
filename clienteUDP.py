@@ -18,3 +18,4 @@ try:
 finally:
     print('Cliente: Fechando a conexão' )
     s.close()
+    #
